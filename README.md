@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 
-Hi, I'm Pablo, a Front End Developer 🚀 from Spain, currently, I'm working on 🙍🏽‍♂️ [@SmartUp Sopra Steria](https://www.soprasteria.es/) for a [@BBVA](https://www.bbva.es/personas.html) project, I enjoy playing sports and guitar.
+Hi, I'm Pablo, a Front End Developer 🚀 from Spain, currently, I'm working on 🙍🏽‍♂️ [@Sngular](https://www.sngular.com/) for a [@BBVA](https://www.bbva.es/personas.html) project, I enjoy playing sports and guitar.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
